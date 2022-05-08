@@ -79,7 +79,7 @@ The following languages have been used on this project:
 
 ## Demo
 
-[Here is a demo of the deployed website](https://pitches-moringa.herokuapp.com/)
+[Here is a demo of the deployed website](https://catepitch.herokuapp.com/)
 
 # License
 
