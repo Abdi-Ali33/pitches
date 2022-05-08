@@ -65,3 +65,14 @@ chmod a+x start.sh
 ```
 
 - open the browser and navigate to http://127.0.0.1:5000/ to see the application in action
+
+## Technologies Used
+
+The following languages have been used on this project:
+
+- HTML
+- CSS
+- JS
+- Bootstrap
+- Flask
+- Python
