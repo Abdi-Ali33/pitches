@@ -10,7 +10,7 @@ Flask application that allows users to use that one minute wisely. The users wil
 
 ## Screenshot
 
-![Screenshot](./)
+![Screenshot](./screenshots/screenshot.png)
 
 ## Setup Requirements
 
