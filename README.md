@@ -1,4 +1,4 @@
-# Github Search Application
+# Pitches Application
 
 ## Author
 
